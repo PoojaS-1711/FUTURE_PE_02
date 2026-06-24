@@ -1,8 +1,13 @@
 # Lakmē Be-jewel Multichrome Eyeshadow — UGC Ad Campaign
+
 **Generated using:** Claude (Anthropic)
+
 **Brand:** Lakmē India
+
 **Product:** Be-jewel Multichrome Eyeshadow
+
 **Product URL:** https://www.lakmeindia.com/products/be-jewel-multichrome-eyeshadow
+
 **Price:** ₹1,499
 
 ---
