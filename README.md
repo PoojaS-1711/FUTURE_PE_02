@@ -1,6 +1,6 @@
 # AI-Powered UGC Ad Content Generator 🤖🎬
 
-**By:** PoojaS-1711
+**By:** POOJA S
 
 **Internship:** Future Interns — Prompt Engineering Track
 
